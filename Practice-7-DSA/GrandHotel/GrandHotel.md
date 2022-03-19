@@ -24,7 +24,8 @@ Sample Output 0
 
 Explanation 0
 
-image
+![image](https://user-images.githubusercontent.com/43996329/159137964-a4792689-9f7e-44ca-a7b4-6ff8ce55ce63.png)
+
 
 Алекс казва на ключаря да й направи два ключа с номера 2 и 3.
 
