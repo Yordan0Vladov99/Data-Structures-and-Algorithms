@@ -16,30 +16,30 @@ Output Format
 
 Sample Input 0
 
-10 3
-bababaabab
+    10 3
+    bababaabab
 
 Sample Output 0
 
-bab
+    bab
 
 Explanation 0
 
-Думата bab се среща 3 пъти: bababaabab
+    Думата bab се среща 3 пъти: bababaabab
                             |||    |||
                               |||
 
 Sample Input 1
 
-10 1
-b  c.b b.a
+    10 1
+    b  c.b b.a
 
 Sample Output 1
 
-b
+    b
 
 Explanation 1
 
-Думата b се среща 3 пъти: b  c.b b.a
+    Думата b се среща 3 пъти: b  c.b b.a
                           |    | |
 
