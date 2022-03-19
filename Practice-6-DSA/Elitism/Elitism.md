@@ -28,3 +28,47 @@ Output Format
 ).
 
 Sample Input 0
+  10
+  1
+  2
+  3
+  4
+  5
+  6
+  7
+  8
+  9
+  10
+  
+Sample Output 0
+
+  1.0
+  1.5
+  2.0
+  2.5
+  3.0
+  3.5
+  4.0
+  4.5
+  5.0
+  5.5
+  
+Sample Input 1
+
+  4
+  3
+  11
+  4
+  2
+
+Sample Output 1
+
+  3.0
+  7.0
+  4.0
+  3.5
+
+
+
+
+
