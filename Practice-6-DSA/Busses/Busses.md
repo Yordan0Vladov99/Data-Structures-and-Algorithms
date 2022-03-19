@@ -6,7 +6,7 @@
 
 Input Format
 
-    На първия ред са зададени числата 
+ На първия ред са зададени числата 
 
 и
 - брой студенти
@@ -29,32 +29,39 @@ Output Format
 
 Sample Input 0
 
-4 3
-1
-3
-5
-6
-2 1
-4 3
-7 2
+    4 3
+    1
+    3
+    5
+    6
+    2 1
+    4 3
+    7 2
 
 Sample Output 0
 
-3
+    3
 
 Explanation 0
 
 image image image image image
 
+![image](https://user-images.githubusercontent.com/43996329/159137613-c4b78283-61af-40c8-a40c-ddfa6ae32c6d.png)
+![image](https://user-images.githubusercontent.com/43996329/159137615-b09fd65e-c7ec-47fd-b0b3-5668257d0f85.png)
+![image](https://user-images.githubusercontent.com/43996329/159137618-d27c1ecf-2be2-4ed5-a95b-ed1a19c6900c.png)
+![image](https://user-images.githubusercontent.com/43996329/159137621-f1a95a16-e80c-49e5-9479-9c5050cf0676.png)
+![image](https://user-images.githubusercontent.com/43996329/159137623-27da66d3-c511-4922-9990-00c047cd6310.png)
+
+
 Sample Input 1
 
-2 2
-1
-10
-2 10
-3 2
+    2 2
+    1
+    10
+    2 10
+    3 2
 
 Sample Output 1
 
-2
+    2
 
