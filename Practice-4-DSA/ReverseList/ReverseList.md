@@ -31,7 +31,8 @@ Constraints
  - 1 ≤ t ≤ 10
  - 1 ≤ n ≤ 1000
  - 1 ≤ list[i] ≤ 1000, where list[i] is the i-th element in the list.
- - 
+
+
 Sample Input
 
 1
