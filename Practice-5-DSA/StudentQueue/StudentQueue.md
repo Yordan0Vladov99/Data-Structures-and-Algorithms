@@ -26,24 +26,24 @@ Output Format
 
 Sample Input 0
 
-8 666
-Ivan 10
-Nikolay 10
-Vasil 3
-Daniel 4
-Yoanna 3
-Maria 3
-Pesho 666
-Gosho 10
+    8 666
+    Ivan 10
+    Nikolay 10
+    Vasil 3
+    Daniel 4
+    Yoanna 3
+    Maria 3
+    Pesho 666
+    Gosho 10
 
 Sample Output 0
 
-Ivan 0 2
-Nikolay 1 4
-Vasil 2 6
-Yoanna 4 8
-Maria 5 10
-Daniel 3 12
-Pesho 6 14
-Gosho 7 16
+    Ivan 0 2
+    Nikolay 1 4
+    Vasil 2 6
+    Yoanna 4 8
+    Maria 5 10
+    Daniel 3 12
+    Pesho 6 14
+    Gosho 7 16
 
