@@ -59,4 +59,5 @@ Sample Output
 Explanation
 
 The original list is 20 -> 6 -> 2 -> 19 -> 7 -> 4 -> 15 -> 9. 
+
 After deleting the node at position , the list is 20 -> 6 -> 2 -> 7 -> 4 -> 15 -> 9.
