@@ -26,8 +26,8 @@ Sample Output 0
 Explanation 0
 
     Думата bab се среща 3 пъти: bababaabab
-                            |||    |||
-                              |||
+                                |||    |||
+                                  |||
 
 Sample Input 1
 
@@ -41,5 +41,5 @@ Sample Output 1
 Explanation 1
 
     Думата b се среща 3 пъти: b  c.b b.a
-                          |    | |
+                              |    | |
 
