@@ -49,13 +49,17 @@ Explanation 0
 Sample Input 1
 
 3 3
+
 3 5 2
+
 3 5 0
 
 Sample Output 1
 
 0
+
 1
+
 -1
 
 Explanation 1
