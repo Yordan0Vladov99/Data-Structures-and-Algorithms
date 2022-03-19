@@ -9,8 +9,9 @@ Input Format
 След това на N реда ще получите по 2 числа K М, К е колко сантиметра камионът е напред или назад (в едната посока е положително число, в другата отрицателно), M е колко монстъра са нужни на Kyle, за да помръдне камиона с 1 сантиметър напред или назад.
 
 Constraints
-
-К
+0 ≤ N ≤ 50000
+-10000 ≤ К ≤ 10000
+0 ≤ M ≤ 5000
 
 Output Format
 
@@ -19,7 +20,9 @@ Output Format
 Sample Input 0
 
 2
+
 1 5
+
 -2 1
 
 Sample Output 0
@@ -33,7 +36,9 @@ Explanation 0
 Sample Input 1
 
 2
+
 0 0
+
 1 2
 
 Sample Output 1
@@ -47,9 +52,13 @@ Explanation 1
 Sample Input 2
 
 4
+
 0 1
+
 3 2
+
 -3 3
+
 3 5
 
 Sample Output 2
