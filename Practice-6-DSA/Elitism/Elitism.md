@@ -28,6 +28,7 @@ Output Format
 ).
 
 Sample Input 0
+
    10
    1
    2
