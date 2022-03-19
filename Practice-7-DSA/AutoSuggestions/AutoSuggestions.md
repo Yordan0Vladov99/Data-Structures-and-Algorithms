@@ -30,19 +30,19 @@ Output Format
 
 Sample Input 0
 
-4 5
-baba banica boza ba
-b
-ba
-ban
-bi
-a
+    4 5
+    baba banica boza ba
+    b
+    ba
+    ban
+    bi
+    a
 
 Sample Output 0
 
-4
-3
-1
-0
-0
+    4
+    3
+    1
+    0
+    0
 
