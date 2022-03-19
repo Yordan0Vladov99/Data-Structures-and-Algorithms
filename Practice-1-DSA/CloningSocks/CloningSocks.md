@@ -21,11 +21,14 @@ Output Format
 Sample Input 0
 
 2
+
 3 1
+
 5 2
 
 Sample Output 0
 
 no
+
 yes
 
