@@ -31,14 +31,19 @@ Output Format
 Sample Input 0
 
 5
+
 2 7 3 4 9
+
 3
+
 1 25 11
 
 Sample Output 0
 
 1
+
 5
+
 3
 
 Explanation 0
