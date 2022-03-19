@@ -10,7 +10,9 @@ Input Format
 
 Constraints
 0 ≤ N ≤ 50000
+
 -10000 ≤ К ≤ 10000
+
 0 ≤ M ≤ 5000
 
 Output Format
