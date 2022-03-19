@@ -29,25 +29,29 @@ Input Format
 The first line contains an integer
 , the number of elements in the linked list.
 Each of the next lines contains an integer SinglyLinkedListNode[i].data.
-The next line contains an integer , the data of the node that is to be inserted.
-The last line contains an integer
-
-.
+The next line contains an integer data, the data of the node that is to be inserted.
+The last line contains an integer position.
 
 Constraints
+ - 1 ≤ n ≤ 1000
+ 
+ - 1 ≤ SinglyLinkedListNode[i].data ≤ 1000, where SinglyLinkedListNode[i] is the i-th element of the linked list
+ 
+ - 0 ≤ position ≤ n
 
-, where is the
-element of the linked list.
-
-    .
 
 Sample Input
 
 3
+
 16
+
 13
+
 7
+
 1
+
 2
 
 Sample Output
@@ -56,8 +60,7 @@ Sample Output
 
 Explanation
 
-The initial linked list is
-. Insert at the position which currently has in it. The updated linked list is .
+The initial linked list is 16 -> 13 -> 7. Insert 1 at the position 2 which currently has 7 in it. The updated linked list is 16 -> 13 -> 1 -> 7.
 
 
 #include <bits/stdc++.h>
