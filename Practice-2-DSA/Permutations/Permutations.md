@@ -33,7 +33,9 @@ no, ако едната дума не е пермутация на другат�
 Sample Input 0
 
 4
+
 abcd
+
 cdba
 
 Sample Output 0
@@ -43,7 +45,9 @@ yes
 Sample Input 1
 
 3
+
 abc
+
 bcd
 
 Sample Output 1
