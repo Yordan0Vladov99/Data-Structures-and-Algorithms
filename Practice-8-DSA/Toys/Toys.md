@@ -16,14 +16,14 @@ Output Format
 
 Sample Input 0
 
-10 5
-1 2
-1 3
-2 3
-1 4
-2 1
+    10 5
+    1 2
+    1 3
+    2 3
+    1 4
+    2 1
 
 Sample Output 0
 
-7
+    7
 
