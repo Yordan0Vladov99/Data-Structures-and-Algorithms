@@ -1,4 +1,5 @@
-image
+![image](https://user-images.githubusercontent.com/43996329/159136896-cc7ca8e5-09e4-41ff-b2fa-7886a8d3c1c1.png)
+
 
 На схемата са показани ябълки, подредени в N реда и M стълба. Една или две от ябълките са гнили (черните). От допира с тях след един ден и съседните им здрави също загниват. Напишете програма, която определя колко здрави ябълки ще останат след T дни.
 
@@ -16,11 +17,14 @@ Output Format
 
 Sample Input 0
 
-8 10 2
-4 8
-2 7
+    8 10 2
+    4 8
+    2 7
 
 Sample Output 0
 
-59
+    59
+    
+Explanation 0 
+![image](https://user-images.githubusercontent.com/43996329/159136914-62273338-adc5-4748-aabc-9844dbbfd911.png)
 
