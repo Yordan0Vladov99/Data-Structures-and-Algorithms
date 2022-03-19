@@ -23,10 +23,15 @@ Output Format
 Sample Input 0
 
 5
+
 1 2
+
 2 3
+
 3 1
+
 4 2
+
 5 2
 
 Sample Output 0
