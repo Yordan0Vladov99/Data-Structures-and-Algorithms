@@ -3,6 +3,7 @@ Given pointers to the heads of two sorted linked lists, merge them into a single
 Example
 
 headA refers to 1 -> 3 -> NULL
+
 headB refers to 1 -> 2 -> NULL
 
 The new list is 1 -> 1 -> 2 -> 3 -> 7 -> NULL
