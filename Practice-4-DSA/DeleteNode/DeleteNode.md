@@ -2,10 +2,11 @@ Delete the node at a given position in a linked list and return a reference to t
 
 Example
 
+llist = 0 -> 1 -> 2 -> 3
 
-After removing the node at position ,
+position = 2
 
-.
+After removing the node at position 2, llist' = 0 -> 1 -> 3.
 
 Function Description
 
@@ -23,27 +24,32 @@ Input Format
 The first line of input contains an integer
 , the number of elements in the linked list.
 Each of the next lines contains an integer, the node data values in order.
-The last line contains an integer,
-
-, the position of the node to delete.
+The last line contains an integer, position, the position of the node to delete.
 
 Constraints
-
-, where is the
-
-    element of the linked list.
+1 ≤ n ≤ 1000
+1 ≤ list[i] ≤ 1000, where list[i[ is the i-th element of the linked list.
 
 Sample Input
 
 8
+
 20
+
 6
+
 2
+
 19
+
 7
+
 4
+
 15
+
 9
+
 3
 
 Sample Output
@@ -52,5 +58,5 @@ Sample Output
 
 Explanation
 
-The original list is
-. After deleting the node at position , the list is .
+The original list is 20 -> 6 -> 2 -> 19 -> 7 -> 4 -> 15 -> 9. 
+After deleting the node at position , the list is 20 -> 6 -> 2 -> 7 -> 4 -> 15 -> 9.
