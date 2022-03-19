@@ -6,7 +6,10 @@
 
 Забележка: Зартан иска да гледа само надясно.
 
-image image
+![image](https://user-images.githubusercontent.com/43996329/159136274-77a97ce0-0f68-4a6d-b1de-b14dda872eee.png)
+
+![image](https://user-images.githubusercontent.com/43996329/159136276-49dec723-7244-41b4-acab-b13651ad707e.png)
+
 
 Input Format
 
