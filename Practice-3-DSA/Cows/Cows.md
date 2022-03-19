@@ -19,6 +19,7 @@ Output Format
 Sample Input 0
 
 5 2
+
 5 8 12 32 1
 
 Sample Output 0
@@ -32,6 +33,7 @@ Explanation 0
 Sample Input 1
 
 7 3
+
 1 15 35 10 69 60 28
 
 Sample Output 1
