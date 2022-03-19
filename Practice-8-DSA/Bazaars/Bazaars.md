@@ -22,20 +22,20 @@ Output Format
 
 Sample Input 0
 
-7 10
-SOF LON
-SOF PAR
-PAR LSA
-LON NYC
-NYC SYD
-SYD TOK
-TOK PAR
-PAR TOK
-NYC SOF
-SOF TOK
-LON
+    7 10
+    SOF LON
+    SOF PAR
+    PAR LSA
+    LON NYC
+    NYC SYD
+    SYD TOK
+    TOK PAR
+    PAR TOK
+    NYC SOF
+    SOF TOK
+    LON
 
 Sample Output 0
 
-LON NYC SOF LON
+    LON NYC SOF LON
 
