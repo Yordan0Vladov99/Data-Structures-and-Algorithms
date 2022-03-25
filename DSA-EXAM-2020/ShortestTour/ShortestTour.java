@@ -12,7 +12,6 @@ public class Solution {
 
         }
         q.add(start);
-        int itr = 0;
         int nodesOnLevel = 1;
         int level = 0;
 
